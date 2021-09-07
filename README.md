@@ -1,16 +1,41 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Miguel Osuna. Welcome to my profile 👋</h1>
+<h3 align="center">Software Engineer from Mexico 🇲🇽</h3>
 
-<!--
-**miguel-osuna/miguel-osuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/miguel-osuna" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+    </a>
+    <a href="https://codesandbox.io/u/miguel-osuna" taget="_blank">
+        <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="Code Sandbox Profile" />
+    </a>
+    <a href="https://www.linkedin.com/in/osuna-angulo/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+    </a>
+    <a href="https://github.com/miguel-osuna" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Profile" />
+    </a>
+    <a href="https://stackoverflow.com/users/11616949/miguel-osuna" target="_blank">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow Profile"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **GraphQL, Next.js and TypeScript**
+
+- 👨‍💻 Check out my projects at [https://miguel-osuna.com](https://miguel-osuna.com)
+
+- 📫 Feel free to contact me at **contact@miguel-osuna.com**
+
+- 🤓 Fun fact **I'm also an investor and content creator**
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-osuna&show_icons=true&locale=en&layout=compact" alt="miguel-osuna" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=miguel-osuna&show_icons=true&locale=en" alt="miguel-osuna" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-osuna&" alt="miguel-osuna" />
+</p>
