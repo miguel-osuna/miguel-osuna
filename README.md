@@ -29,13 +29,13 @@
 - 🤓 Fun fact **I'm also an investor and content creator**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-osuna&show_icons=true&locale=en&layout=compact" alt="miguel-osuna" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=miguel-osuna&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="miguel-osuna" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=miguel-osuna&show_icons=true&locale=en" alt="miguel-osuna" />
+    <img src="https://github-readme-stats.vercel.app/api?username=miguel-osuna&theme=tokyonight&show_icons=true&locale=en" alt="miguel-osuna" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-osuna&" alt="miguel-osuna" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=miguel-osuna&theme=tokyonight" alt="miguel-osuna" />
 </p>
