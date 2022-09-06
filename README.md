@@ -20,7 +20,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **GraphQL, Next.js and TypeScript**
+- 🌱 I’m currently learning **Blockchain technologies**
 
 - 👨‍💻 Check out my projects at [https://miguel-osuna.com](https://miguel-osuna.com)
 
